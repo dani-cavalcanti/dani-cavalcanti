@@ -26,7 +26,8 @@ No momento, sou QA Lead da WS Rocket🚀QA na Sensedia onde, além de atuar na T
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-000080?style=for-the-badge&logo=sqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-FFA500?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-E0FFFF?style=for-the-badge&logo=swagger.js&logoColor=white">
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ-4B0082?style=for-the-badge&logo=intellij&logoColor=white">
