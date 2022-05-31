@@ -21,9 +21,9 @@ I have been working since 2018 as a QA, where I started as an intern for Testing
 
 #                   
                    
-<h4> Top Languages Card</h4> 
+<h4> Languages </h4> 
                    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dani-cavalcanti&layout=compact)](https://github.com/dani-cavalcanti/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dani-cavalcanti&langs_count=8&layout=compact)](https://github.com/dani-cavalcanti/github-readme-stats)
                    
 #
                    
