@@ -1,4 +1,4 @@
-## Hello, it's me...
+## Hello, it's me... 👩🏽‍💻 
                             
  <p align="center">
   <img src="https://github.com/dani-cavalcanti/dani-cavalcanti/blob/master/Dani%20Cavalcanti.gif" width="400px"</img>
