@@ -12,7 +12,7 @@ No momento, sou QA Lead da WS Rocket🚀QA na Sensedia onde, além de atuar na T
 
 #        
 
-**Minhas Stacks:**
+**Minhas Skills:**
 
 <p align="justify">
 <img src="https://img.shields.io/badge/Scrum-800000?style=for-the-badge&logo=scrum&logoColor=white">
