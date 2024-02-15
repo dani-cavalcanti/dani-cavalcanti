@@ -6,7 +6,6 @@
                                                                                                                                                              
 <h5 align="justify"> Sou graduada em Análise e Desenvolvimento de Sistemas, certificada pela  ISTQB (CTFL) e atualmente pós-graduanda em Qualidade e Testes de Software. 
 Trabalho desde 2018 como QA, onde comecei como estagiária de Testes e de Apoio à Gerência de Projeto e após 5 meses como estagiária, fui contratada como Jr e, desde então, sigo crescendo dentro da área de QA. 
-No momento, sou QA Lead da WS Rocket🚀QA na Sensedia onde, além de atuar na Torre de Open Insurance, promovo mentoria e capacitação de novos QAs.
 
 </h5>               
 
